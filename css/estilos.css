@@ -1,0 +1,36 @@
+@font-face{
+    
+    font-family: lobster;
+    src: URL('recursos/fuentes/lobster.ttf') format('truetype');
+}
+@font-face{
+    
+    font-family: montserrat;
+    src: URL('recursos/fuentes/montserrat.ttf') format('truetype');
+}
+.login{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.registro {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.divisor{
+    padding: 10px;
+    text-align: center;
+    color: #707070;
+}
+.categorias {
+    width: 100%;
+    margin: auto;
+    color: #707070;
+    font-family: montserrat;
+
+}
+.productos {
+    width: 100%;
+    margin: auto;
+    color: #707070;
+    font-family: montserrat;
+}
